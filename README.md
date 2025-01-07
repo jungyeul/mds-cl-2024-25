@@ -8,7 +8,7 @@
 * [Lab 4]
   
 ### COLX_561_semantics (Tuesday) - TA: Changbing
-* [Lab 1] Named Entity Recognition (requires a [dataset])
+* [[Lab 1](block4/COLX_561_semantics_lab1.ipynb)] Named Entity Recognition (requires a [dataset](block4/COLX_561_semantics_lab1.zip))
 * [Lab 2]
 * [Lab 3]
 * [Lab 4]
