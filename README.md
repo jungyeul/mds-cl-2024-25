@@ -2,13 +2,13 @@
 
 ## Block 4
 ### COLX_535_parsing (Monday) - TA: Yadong
-* [[Lab 1](./block4/COLX_535_parsing_lab1.ipynb)]
+* [[Lab 1](./block4/COLX_535_parsing_lab1.ipynb)] Noun Phrase
 * [Lab 2]
 * [Lab 3]
 * [Lab 4]
   
 ### COLX_561_semantics (Tuesday) - TA: Changbing
-* [Lab 1]
+* [Lab 1] Named Entity Recognition (requires a [dataset])
 * [Lab 2]
 * [Lab 3]
 * [Lab 4]
