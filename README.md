@@ -14,13 +14,13 @@
 * [Lab 4]
   
 ### DSCI_572_sup-learn-2 (Wednesday) - TA: Wei-Rui
-* [Lab 1]
+* [[Lab 1](block4/DSCI_572_sup-learn-2_lab1.ipynb)]
 * [Lab 2]
 * [Lab 3]
 * [Lab 4]
 
 ### DSCI_563_unsup-learn (Thursday) - TA: Brian Diep
-* [Lab 1]
+* [[Lab 1](block4/DSCI_563_unsup_lab1.ipynb)]
 * [Lab 2]
 * [Lab 3]
 * [Lab 4]
