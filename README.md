@@ -20,7 +20,7 @@
 * [Lab 4]
 
 ### DSCI_563_unsup-learn (Thursday) - TA: Brian Diep
-* [[Lab 1](block4/DSCI_563_unsup_lab1.ipynb)]
+* [[Lab 1](block4/DSCI_563_unsup_lab1.ipynb)](requires [`geodata.csv`](block4/geodata.csv) and [`WALS.csv`](block4/WALS.csv))
 * [Lab 2]
 * [Lab 3]
 * [Lab 4]
