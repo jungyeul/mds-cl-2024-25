@@ -15,7 +15,7 @@
   
 ### DSCI_572_sup-learn-2 (Wednesday) - TA: Wei-Rui
 * [[Lab 1](block4/DSCI_572_sup-learn-2_lab1.ipynb)]
-* [Lab 2]
+* [[Lab 2](block4/DSCI_572_sup-learn-2_lab2.ipynb)]
 * [Lab 3]
 * [Lab 4]
 
