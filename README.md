@@ -4,7 +4,7 @@
 ### COLX_535_parsing (Monday) - TA: Yadong
 * [[Lab 1](./block4/COLX_535_parsing_lab1.ipynb)] Noun Phrase
 * [[Lab 2](./block4/COLX_535_parsing_lab2.ipynb)] CFG Parsers
-* [Lab 3]
+* [[Lab 3](./block4/COLX_535_parsing_lab3.ipynb)] CFG parsing algorithms
 * [Lab 4]
   
 ### COLX_561_semantics (Tuesday) - TA: Changbing
