@@ -16,7 +16,7 @@
 ### DSCI_572_sup-learn-2 (Wednesday) - TA: Wei-Rui
 * [[Lab 1](block4/DSCI_572_sup-learn-2_lab1.ipynb)]
 * [[Lab 2](block4/DSCI_572_sup-learn-2_lab2.ipynb)]
-* [Lab 3]
+* [[Lab 3](block4/DSCI_572_sup-learn-2_lab3.ipynb)] ([data.zip](https://github.ubc.ca/MDS-CL-2024-25/DSCI_572_sup-learn-2_students/blob/master/blank_labs/Lab3/data.zip))
 * [Lab 4]
 
 ### DSCI_563_unsup-learn (Thursday) - TA: Brian Diep
