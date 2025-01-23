@@ -22,7 +22,7 @@
 ### DSCI_563_unsup-learn (Thursday) - TA: Brian Diep
 * [[Lab 1](block4/DSCI_563_unsup_lab1.ipynb)] (requires [`geodata.csv`](block4/geodata.csv) and [`WALS.csv`](block4/WALS.csv))
 * [[Lab 2](block4/DSCI_563_unsup_lab2.ipynb)] ([Ch17 Sequence Labeling](https://web.stanford.edu/~jurafsky/slp3/17.pdf), See 17.4)
-* [[Lab 3](block4/DSCI_563_unsup_lab3.ipynb)]
+* [[Lab 3](block4/DSCI_563_unsup_lab3.ipynb)] (required  [`blogposts.zip`](https://github.com/jungyeul/mds-cl-2024-25/raw/refs/heads/main/block4/blogposts.zip))
 * [Lab 4]
 
 ##### Jungyeul's Office Hours: Thursday, 6-7 PM (ORCH 4018)
