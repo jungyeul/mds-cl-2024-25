@@ -5,7 +5,7 @@
 * [[Lab 1](./block4/COLX_535_parsing_lab1.ipynb)] Noun Phrase
 * [[Lab 2](./block4/COLX_535_parsing_lab2.ipynb)] CFG Parsers
 * [[Lab 3](./block4/COLX_535_parsing_lab3.ipynb)] CFG parsing algorithms
-* [Lab 4]
+* [[Lab 4](./block4/COLX_535_parsing_lab4.ipynb)] Dependency Parsing
   
 ### COLX_561_semantics (Tuesday) - TA: Changbing
 * [[Lab 1](block4/COLX_561_semantics_lab1.ipynb)] Named Entity Recognition (requires a [dataset](block4/COLX_561_semantics_lab1.zip))
