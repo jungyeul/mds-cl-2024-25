@@ -11,7 +11,7 @@
 * [[Lab 1](block4/COLX_561_semantics_lab1.ipynb)] Named Entity Recognition (requires a [dataset](block4/COLX_561_semantics_lab1.zip))
 * [[Lab 2](block4/COLX_561_semantics_lab2.ipynb)] Semantic Role Labeling (requires a [dataset](block4/COLX_561_semantics_lab2.zip))
 * [[Lab 3](block4/COLX_561_semantics_lab3.ipynb)] Question-Answering with BERT (requires a [dataset](https://drive.google.com/file/d/1jAXaGLyCllMoa6suFiZro4cuWf0Mnx9G/view?usp=sharing)@googledrive, [pretrained model](https://drive.google.com/file/d/1wm7NuOsEUGBti735aRyW6FG-lS4NMe7x/view?usp=share_link)@googledrive)
-* [Lab 4] Slot filling (requires a [dataset](block4/COLX_561_semantics_lab4.zip))
+* [[Lab 4](block4/COLX_561_semantics_lab4.ipynb)] Slot filling (requires a [dataset](block4/COLX_561_semantics_lab4.zip))
   
 ### DSCI_572_sup-learn-2 (Wednesday) - TA: Wei-Rui
 * [[Lab 1](block4/DSCI_572_sup-learn-2_lab1.ipynb)]
