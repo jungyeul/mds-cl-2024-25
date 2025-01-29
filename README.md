@@ -17,7 +17,7 @@
 * [[Lab 1](block4/DSCI_572_sup-learn-2_lab1.ipynb)]
 * [[Lab 2](block4/DSCI_572_sup-learn-2_lab2.ipynb)]
 * [[Lab 3](block4/DSCI_572_sup-learn-2_lab3.ipynb)] ([data.zip](https://github.ubc.ca/MDS-CL-2024-25/DSCI_572_sup-learn-2_students/blob/master/blank_labs/Lab3/data.zip)) 
-* [Lab 4]
+* [[Lab 4](block4/DSCI_572_sup-learn-2_lab4.ipynb)]
 
 ### DSCI_563_unsup-learn (Thursday) - TA: Brian Diep
 * [[Lab 1](block4/DSCI_563_unsup_lab1.ipynb)] (requires [`geodata.csv`](block4/geodata.csv) and [`WALS.csv`](block4/WALS.csv))
