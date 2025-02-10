@@ -1,6 +1,30 @@
 ## Jungyeul's mds-cl-2024-25 repo for lab cheat sheets
 
 ## Block 4
+### COLX_531_translation (Monday) - TA: Wei-Rui
+* [Lab 1] Techinical notebook 
+* [Lab 2] Techinical notebook 
+* [Lab 3] No lab. Instead, a Milestone for COLX_585_Trends in Block 6
+* [Lab 4] No lab 
+
+### COLX_565_sentiment (Tuesday)  - TA: Yadong
+* [Lab 1] Lab
+* [Lab 2] Lab
+* [Lab 3] No lab. Instead, a Milestone for the small project 
+* [Lab 4] No lab
+
+### COLX_523_adv-corp-ling (Wednesday) - TA: Brian Diep
+* No lab. Instead, a discussion group for the prioject
+
+
+### COLX_525_morphology (Thursday)  - TA: Changbing
+* [Lab 1] Lab
+* [Lab 2] Lab
+* [Lab 3] Lab
+* [Lab 4] Lab
+
+
+## Block 4
 ### COLX_535_parsing (Monday) - TA: Yadong
 * [[Lab 1](./block4/COLX_535_parsing_lab1.ipynb)] Noun Phrase
 * [[Lab 2](./block4/COLX_535_parsing_lab2.ipynb)] CFG Parsers
