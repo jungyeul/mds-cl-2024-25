@@ -8,7 +8,7 @@
 * [Lab 4] No lab 
 
 ### COLX_565_sentiment (Tuesday)  - TA: Yadong
-* [Lab 1] Lab
+* [[Lab 1](./block5/COLX_565_sentiment_lab1.ipynb)],
 * [Lab 2] Lab
 * [Lab 3] No lab. Instead, a Milestone for the small project 
 * [Lab 4] No lab
@@ -18,7 +18,7 @@
 
 
 ### COLX_525_morphology (Thursday)  - TA: Changbing
-* [Lab 1] Lab
+* [[Lab 1](./block5/COLX_525_morphology_lab1.ipynb)]
 * [Lab 2] Lab
 * [Lab 3] Lab
 * [Lab 4] Lab
