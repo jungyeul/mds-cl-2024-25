@@ -9,7 +9,7 @@
 
 ### COLX_565_sentiment (Tuesday)  - TA: Yadong
 * [[Lab 1](./block5/COLX_565_sentiment_lab1.ipynb)]
-* [Lab 2] Lab
+* [[Lab 2](./block5/COLX_565_sentiment_lab2.ipynb)] -- This cheatsheet provides information on a CNN classifier for your information. However, you will use Transformer fine-tuning this year.
 * [Lab 3] No lab. Instead, a Milestone for the small project 
 * [Lab 4] No lab
 
