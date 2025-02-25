@@ -19,7 +19,7 @@
 
 ### COLX_525_morphology (Thursday)  - TA: Changbing
 * [[Lab 1](./block5/COLX_525_morphology_lab1.ipynb)]
-* [Lab 2] Lab
+* [[Lab 2](./block5/COLX_525_morphology_lab2.ipynb)]
 * [Lab 3] Lab
 * [Lab 4] Lab
 
