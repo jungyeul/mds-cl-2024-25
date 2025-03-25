@@ -1,5 +1,25 @@
 ## Jungyeul's mds-cl-2024-25 repo for lab cheat sheets
 
+## Block 6
+### COLX_585_trends (Monday) - TA: Wei-Rui
+* No lab 
+
+### COLX_563_adv-semantics (Tuesday)  - TA: Yadong
+* [Lab 1]
+* [Lab 2]
+* [Lab 3] 
+* [Lab 4] 
+
+### COLX_581_low-resource (Wednesday) - TA: Changbing
+* [Lab 1]
+* [Lab 2]
+* [Lab 3] 
+* [Lab 4] 
+
+### COLX_541_priv-eth-sec (Thursday)  - TA: Brian Diep
+* Discussion group
+
+
 ## Block 5
 ### COLX_531_translation (Monday) - TA: Wei-Rui
 * [Lab 1] Techinical notebook 
