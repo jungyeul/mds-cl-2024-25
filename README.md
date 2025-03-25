@@ -5,10 +5,7 @@
 * No lab 
 
 ### COLX_563_adv-semantics (Tuesday)  - TA: Yadong
-* [Lab 1]
-* [Lab 2]
-* [Lab 3] 
-* [Lab 4] 
+* No cheat sheets
 
 ### COLX_581_low-resource (Wednesday) - TA: Changbing
 * [Lab 1]
