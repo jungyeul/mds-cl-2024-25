@@ -9,7 +9,7 @@
 
 ### COLX_581_low-resource (Wednesday) - TA: Changbing
 * [[Lab 1](./block6/COLX_581_low_resource_lab1.ipynb)] Crosslingual Transfer for Danish NER
-* [Lab 2]
+* [[Lab 2](./block6/COLX_581_low_resource_lab2.ipynb)] Delexicalized Parsing for North Sami
 * [Lab 3] 
 * [Lab 4] 
 
