@@ -10,8 +10,8 @@
 ### COLX_581_low-resource (Wednesday) - TA: Changbing
 * [[Lab 1](./block6/COLX_581_low_resource_lab1.ipynb)] Crosslingual Transfer for Danish NER
 * [[Lab 2](./block6/COLX_581_low_resource_lab2.ipynb)] Delexicalized Parsing for North Sami ([data](https://github.com/jungyeul/mds-cl-2024-25/raw/refs/heads/main/block6/COLX_581_low_resource_lab2.zip))
-* [[Lab 3](./block6/COLX_581_low_resource_lab3.ipynb)] : POS projection ([data](https://github.com/jungyeul/mds-cl-2024-25/raw/refs/heads/main/block6/COLX_581_low_resource_lab3.zip))
-* [[Lab 4](./block6/COLX_581_low_resource_lab4.ipynb)] : Active learning for morphological segmentation ([data](https://github.com/jungyeul/mds-cl-2024-25/raw/refs/heads/main/block6/COLX_581_low_resource_lab4.zip))
+* [[Lab 3](./block6/COLX_581_low_resource_lab3.ipynb)] POS projection ([data](https://github.com/jungyeul/mds-cl-2024-25/raw/refs/heads/main/block6/COLX_581_low_resource_lab3.zip))
+* [[Lab 4](./block6/COLX_581_low_resource_lab4.ipynb)] Active learning for morphological segmentation ([data](https://github.com/jungyeul/mds-cl-2024-25/raw/refs/heads/main/block6/COLX_581_low_resource_lab4.zip))
 
 
 ### COLX_541_priv-eth-sec (Thursday)  - TA: Brian Diep
